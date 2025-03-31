@@ -53,7 +53,7 @@ def load_price_data():
 # =================
 
 st.set_page_config(
-    page_title="FarmConnect - Market Intelligence",
+    page_title="AgriSure - Market Intelligence",
     layout="wide",
     page_icon="🌾"
 )
