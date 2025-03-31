@@ -115,7 +115,7 @@ st.markdown("""
 # Header
 with st.container():
     st.markdown('<div class="header">', unsafe_allow_html=True)
-    st.title("🌾 FarmConnect - Market Intelligence")
+    st.title("🌾 AgriSure - Market Intelligence")
     st.markdown("**Real-time Agricultural Price Monitoring & Decision Support System**")
     st.markdown("</div>", unsafe_allow_html=True)
 
